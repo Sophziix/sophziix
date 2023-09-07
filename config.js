@@ -8,27 +8,27 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51992621601', '👑 Mystic - Creador 👑', true],
-  ['51992621601', '💫 Mystic - Collaborator 1 💫', true],
-  ['51992621601', '💫 Mystic - Collaborator 2 💫', true],
-  ['51992621601', '💫 Mystic - Collaborator 3 💫', true],
-  ['51992621601', '💫 Mystic - Collaborator 4 💫', true],
-  ['51992621601', '💫 Mystic - Collaborator 5 💫', true],  
-  ['51992621601', '💫 Mystic - Collaborator 6 💫', true],
-  ['51992621601', '💫 Mystic - Collaborator 7 💫', false],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],	
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601']
+  ['51977835959', '👑 Mystic - Creador 👑', true],
+  ['51977835959', '💫 Mystic - Collaborator 1 💫', true],
+  ['51977835959', '💫 Mystic - Collaborator 2 💫', true],
+  ['51977835959', '💫 Mystic - Collaborator 3 💫', true],
+  ['51977835959', '💫 Mystic - Collaborator 4 💫', true],
+  ['51977835959', '💫 Mystic - Collaborator 5 💫', true],  
+  ['51977835959', '💫 Mystic - Collaborator 6 💫', true],
+  ['51977835959', '💫 Mystic - Collaborator 7 💫', false],
+  ['51977835959'],
+  ['51977835959'],
+  ['51977835959'],
+  ['51977835959'],	
+  ['51977835959'],
+  ['51977835959'],
+  ['51977835959'],
+  ['51977835959'],
+  ['51977835959']
 ] 
 
-global.suittag = ['51992621601'] 
-global.prems = ['51992621601'] 
+global.suittag = ['51977835959'] 
+global.prems = ['51977835959'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
